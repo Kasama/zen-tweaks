@@ -1,0 +1,8 @@
+[
+  {
+    "property": "theme.kasama.background-not-transparent",
+    "label": "Remove transparency from web content background",
+    "type": "checkbox",
+    "defaultValue": true
+  }
+]
