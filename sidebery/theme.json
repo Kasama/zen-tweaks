@@ -1,0 +1,21 @@
+{
+  "id": "kasama-sidebery-tweaks",
+  "name": "Kasama Sidebery Tweaks",
+  "description": "Zen browser tweaks made for Kasama",
+  "homepage": "https://github.com/Kasama/zen-tweaks",
+  "readme": "https://github.com/Kasama/zen-tweaks/refs/heads/main/README.md",
+  "style": "https://raw.githubusercontent.com/Kasama/zen-tweaks/main/sidebery/chrome.css",
+  "js": false,
+  "preferences": "https://raw.githubusercontent.com/Kasama/zen-tweaks/main/sidebery/preferences.json",
+  "author": "Kasama",
+  "version": "1.0.0",
+  "tags": [
+    "sine",
+    "fx-autoconfig"
+  ],
+  "createdAt": "2025-08-12",
+  "updatedAt": "2025-08-12",
+  "fork": [
+    "zen"
+  ]
+}
