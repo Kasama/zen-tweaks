@@ -1,8 +1,8 @@
 @-moz-document url-prefix("chrome:") {
   @media (-moz-bool-pref: 'theme.kasama.background-not-transparent') {
-    #tabbrowser-tabpanels {
-      background-color: #fff;
-      color: #222;
+    tabbox>tabpanels#tabbrowser-tabpanels {
+      background-color: var(--tabpanel-background-color) !important;
+      color: var(--toolbar-color);
       border-radius: 5px;
     }
   }
